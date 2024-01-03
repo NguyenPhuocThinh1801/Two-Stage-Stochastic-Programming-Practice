@@ -1,1 +1,1 @@
-# Two-Stage-Stochastic-Programming-Practice
+# Two-Stage Stochastic Programming Practice
