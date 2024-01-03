@@ -4,4 +4,5 @@ Week 1-2: trao đổi thông tin BTL thông qua google meet
 week 3-4: phân công nhiệm vụ dựa trên khối lượng công việc của BTL
 week 5-6: 
 	Nguyễn Phước Thịnh: hoàn tất bản demo cho ma trận sơ tán
-			    & hoàn thiện báo cáo cho problem 2
+			    & hoàn thiện báo cáo cho problem 2 trên latex
+	Nguyễn Minh Hoàng: báo cáo problem 1 trên latex
